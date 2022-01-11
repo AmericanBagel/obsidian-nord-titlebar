@@ -1,0 +1,20 @@
+/* Nord Titlebar Snippet */
+/* Changes the ugly Obsidian title bar to fit with the Nord theme */
+/* author: https://github.com/AmericanBagel */
+/* credits:  */
+    /* A reddit post on r/ObsidianMD about changing the title bar */
+    /* https://www.reddit.com/r/ObsidianMD/comments/ppn7n2/change_window_title_bar_color/ */
+
+    /* Nord Theme website */
+    /* https://www.nordtheme.com/ */
+
+.titlebar-text{
+  color: #eceff4;
+  background-color: #434c5e;
+}
+.titlebar-button-container.mod-left{
+  color: #eceff4;
+}
+.titlebar-button-container.mod-right{
+  color: #eceff4;
+}
